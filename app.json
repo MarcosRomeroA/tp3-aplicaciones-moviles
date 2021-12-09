@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "auth",
-    "slug": "auth",
+    "slug": "tp3-aplicaciones-mobile",
+    "scheme": "tp3-aplicaciones-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,7 +26,7 @@
         "backgroundColor": "#FFFFFF"
       }
     },
-    "web": {
+    "web": { 
       "favicon": "./assets/favicon.png"
     }
   }
